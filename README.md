@@ -10,7 +10,7 @@
 - Idade;
 - Cor;
 
-## Metódos
+## Métodos
 - Latir;
 - Correr;
 - Comer;
